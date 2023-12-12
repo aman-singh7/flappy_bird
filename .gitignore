@@ -1,0 +1,52 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated files
+/*.sln
+/*.csproj
+/*.unityproj
+/*.suo
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+/*.VC.opendb
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Unity3D generated backup files
+/[Bb]ackup/
+/[Bb]ackups/
+/[Bb]ackup[Tt]emp/
+/[Bb]ackup[Tt]emps/
+/[Bb]ackup[Tt]emp[Tt]emp/
+/[Bb]ackup[Tt]emp[Tt]emps/
+/[Bb]ackup[Tt]emp[Tt]emp[Tt]emp/
+/[Bb]ackup[Tt]emp[Tt]emp[Tt]emps/
